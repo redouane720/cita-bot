@@ -22,7 +22,7 @@ class TestBot(unittest.TestCase):
             "auto_captcha": True,
             "name": "BORIS JOHNSON",
             "doc_type": DocType.PASSPORT,
-            "doc_value": "132435465",
+            "doc_value": "1324355",
             "phone": "600000000",
             "email": "ghtvgdr@affecting.org",
         }
